@@ -70,9 +70,9 @@ A nossa tecnologia inovadora elimina a fricção de cadastramento manual: conect
 
 ## 🗺️ Visão Estratégica e Pitch de Negócios
 
-Acesse os documentos de negócios criados para apresentação a investidores e parceiros (como **Zapay / Sem Parar**):
+Acesse os documentos de negócios criados para apresentação a investidores e parceiros comerciais:
 * [Plano de Negócios (BUSINESS_PLAN.md)](BUSINESS_PLAN.md): Estrutura de mercado, divisão de tarefas na equipe e viabilidade financeira.
-* [Integração SEFAZ (SEFAZ_INTEGRATION.md)](SEFAZ_INTEGRATION.md): Detalhamento técnico da leitura das tags XML, LGPD e as sinergias comerciais com tags de pagamento automático.
+* [Integração SEFAZ (SEFAZ_INTEGRATION.md)](SEFAZ_INTEGRATION.md): Detalhamento técnico da leitura das tags XML, LGPD e as sinergias comerciais com plataformas de venda e meios de pagamento.
 
 ---
 
