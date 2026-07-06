@@ -37,7 +37,7 @@ A execução eficiente da plataforma Near Me depende de um organograma enxuto fo
         ▼                              ▼                              ▼
 ┌──────────────┐               ┌──────────────┐               ┌──────────────┐
 │  TECNOLOGIA  │               │ OPERAÇÕES &  │               │INFRAESTRUTURA│
-│ Desenvolvimento│              │  ACURÁCIA    │               │    CLOUD     │
+│Desenvolvimento│              │  ACURÁCIA    │               │    CLOUD     │
 │   (App/API)  │               │(Validação/QA)│               │(Parcerias)   │
 └──────────────┘               └──────────────┘               └──────────────┘
 ```
@@ -46,7 +46,6 @@ A execução eficiente da plataforma Near Me depende de um organograma enxuto fo
 * **Responsável:** Head de Negócios.
 * **Funções:**
   * Desenhar a estratégia de expansão comercial e modelo de monetização (SaaS, comissões ou anúncios locais).
-  * Viabilizar parcerias de aquisição de comércios (onboarding de lojas).
   * Garantir conformidade jurídica (LGPD) referente ao processamento de dados fiscais (descarte de dados de CPF dos compradores).
 
 ### 2.2 Local Scout (Mapeamento de Lojas e Expansão)
@@ -65,7 +64,7 @@ A execução eficiente da plataforma Near Me depende de um organograma enxuto fo
 ### 2.4 Operações, Validação e Garantia de Acurácia
 * **Responsável:** Time de Operações e Q.A. (Quality Assurance).
 * **Funções:**
-  * **Validação de Acurácia ("vs de Acurácia"):** Realizar auditorias locais periódicas. O time valida fisicamente se as quantidades de estoque nas prateleiras batem com o saldo gerado pelas emissões de notas calculadas pelo motor tributário do app.
+  * **Validação de Acurácia:** Realizar auditorias locais periódicas. O time valida fisicamente se as quantidades de estoque nas prateleiras batem com o saldo gerado pelas emissões de notas calculadas pelo motor tributário do app.
   * Executar testes funcionais contínuos de usabilidade e bugs no aplicativo.
 
 ### 2.5 Infraestrutura, Escala e Relação com Nuvem (Cloud)
@@ -78,21 +77,9 @@ A execução eficiente da plataforma Near Me depende de um organograma enxuto fo
 
 ## 3. Captação de Investimentos (Pitching)
 
-A atração de investidores (anjos, fundos de venture capital especializados em SaaS e RetailTech) será baseada nos seguintes diferenciais competitivos:
+A atração de investidores será baseada nos seguintes diferenciais competitivos:
 1. **Solução para a Barreira do Lojista:** O único marketplace local do mercado com onboarding automático e custo zero de cadastramento de estoque para o comércio.
 2. **Alta Fidelidade de Preços:** O aplicativo sempre exibirá o preço real de checkout da loja física.
 3. **Escalabilidade:** O modelo é altamente replicável para qualquer cidade brasileira que utilize notas fiscais eletrônicas padronizadas pela SEFAZ.
 
 ---
-
-## 4. Filosofia de Trabalho e Razão do Sucesso
-
-Para transformar esta visão em um negócio bilionário, a equipe opera sob diretrizes de execução rígidas:
-
-### 4.1 Paciência e Resiliência
-A lidar com integrações de dados governamentais e validação de estoque em campo, haverá múltiplos atritos operacionais. A paciência estratégica e a resiliência diária para superar gargalos fiscais e de infraestrutura são o combustível da plataforma.
-
-### 4.2 A Razão do Sucesso
-A execução impecável é fruto de disciplina operacional direta:
-> **"Levantar cedo, tomar banho e sair para trabalhar."**
-> O sucesso da plataforma é garantido pela consistência do trabalho diário, pelo alinhamento da equipe e pelo cumprimento rigoroso de metas semanais de código e validação de campo.
